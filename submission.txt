@@ -1,0 +1,60 @@
+Artist: Spotlight Kid
+Title: Another Day
+
+URL
+---
+
+https://archive.org/details/spotlightkidanotherdaydraft1
+
+
+Description
+-----------
+
+This track is an homage to Italo Disco, and more specifically to the songs
+*Valerie Dore - The Night" and "Laura Brannigan - Self Control". There are a
+few nods to other tracks from the era and in the last part I up the cheese
+factor a notch and veer straight into 70s disco.
+
+All instruments and drums were created in software, the recording part was
+the tracking of the vocals, which are performed by Julia Cramer (with some
+background vocals by me added later as well).
+
+**Lead Vocals:** Julia Cramer
+**Background Vocals:** Julia Cramer, Christopher Arndt
+**Synthesizers & Production:** Christopher Arndt
+**Music & Lyrics:** Christopher Arndt
+
+
+Production notes
+----------------
+
+**DAW:**
+
+Ardour 5
+
+**Synthesizers:**
+
+* Dexed - Bass, Plucks
+* drumkv1 - Drums (Samples)
+* Geonkick - Snare sample
+* Oxe FM - Bells
+* String Machine - Synth Strings
+* TAL Noize Mak3r - Bass, Pad, Bells, Harpsi, Vocoder Carrier
+
+
+**Effects:**
+
+Only LV2 plugins:
+
+* Calf Compressor Mono + Stereo
+* Calf Limiter
+* Calf Multiband Compressor
+* Calf Vintage Delay
+* EQ6Q Equalizer Mono
+* falkTX MIDI Transpose
+* Stone Phaser Stereo
+* String Machine Stereo Chorus
+* TAL Vocoder II
+* x42-comp
+* YK Chorus
+* Zita-Reverb

@@ -1,0 +1,43 @@
+MONO-000.WAV    Verse 1 Lead Vocals
+MONO-001.WAV    Verse 1 Lead Vocals
+MONO-002.WAV    Verse 1 Lead Vocals (Abbruch in 2. Hälfte)
+MONO-003.WAV    Verse 1 Lead Vocals (Intonation "pray")
+MONO-004.WAV    Verse 1 Lead Vocals (Gut)
+MONO-005.WAV    Verse 1 Lead Vocals (Gut, zart)
+MONO-006.WAV    Verse 2 Lead Vocals
+MONO-007.WAV    Verse 2 Lead Vocals (hart)
+MONO-008.WAV    Verse 2 Lead Vocals ("Lady Of Ice" gehaucht)
+MONO-009.WAV    Verse 2 Lead Vocals
+MONO-010.WAV    Verse 2 Lead Vocals ("white" gehaucht, gut)
+MONO-011.WAV    Verse 2 Lead Vocals (Guter zweiter Teil)
+MONO-012.WAV    "Lady Of Ice" (geflüstert)
+MONO-013.WAV    Chorus 1 Lead Vocals (Nebengeräusche, übersteuert)
+MONO-014.WAV    Chorus 1 Lead Vocals (Intonation, "And I..." lang=gut)
+MONO-015.WAV    Chorus 1 Lead Vocals (zart, 2. Hälfte gut, "gray" mit Schlenker)
+MONO-016.WAV    Chorus 1 Lead Vocals (Gut, bis auf 1. Zeile)
+MONO-017.WAV    Chorus 1 Lead Vocals (Nur 2. Hälfte(
+MONO-018.WAV    Chorus 1 Lead Vocals (Winner)
+MONO-019.WAV    Chorus 1 Doubling
+MONO-020.WAV    Chorus 1 Doubling (Winner)
+MONO-021.WAV    Chorus 2 Lead Vocals (so la la)
+MONO-022.WAV    Chorus 2 Lead Vocals (Abbruch)
+MONO-023.WAV    Chorus 2 Lead Vocals (Intonation 1. Zeile, "again" richtig)
+MONO-024.WAV    Chorus 2 Lead Vocals
+MONO-025.WAV    Chorus 2 Lead Vocals ("Stand the pain" Phrasierung)
+MONO-026.WAV    Chorus 2 Lead Vocals (Winner)
+MONO-027.WAV    Chorus 2 Lead Vocals (hart, Fehler "Don't break my heart")
+MONO-028.WAV    Chorus 2 Doubling (ungleichmäßig)
+MONO-029.WAV    Chorus 2 Doubling (Winner)  / Chorus 3 + 4 Doubling
+MONO-030.WAV    Chorus 1 Harmony
+MONO-031.WAV    Chorus 1 Harmony (Winner)
+MONO-032.WAV    Chorus 1 Harmony (auch gut)
+MONO-033.WAV    Chorus 2 Harmony (Winner)
+MONO-034.WAV    Chorus 3+4 Lead Vocals
+MONO-035.WAV    Chorus 3+4 Harmony
+MONO-036.WAV    Adlib Planung
+MONO-037.WAV    Adlibs 1
+MONO-038.WAV    Adlibs 2
+MONO-039.WAV    Spoken Words Interlude 1
+MONO-040.WAV    Spoken Words Interlude 2
+MONO-041.WAV    Spoken Words Interlude 3
+MONO-042.WAV    Spoken Words Interlude 4

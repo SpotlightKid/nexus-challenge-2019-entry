@@ -1,0 +1,39 @@
+Nexus Challenge 2019 Entry
+==========================
+
+
+Title: "Another Day" (Working Title)
+Key: C-minor
+Tempo: 112 bpm
+
+
+Song structure
+--------------
+
+ 8 bars Intro (Instrumental)
+ 8 bars Verse Intro (Instrumental)
+ 8 bars Verse 1 (Vocals)
+16 bars Chorus 1 (Vocals)
+ 4 bars Interlude 1 (Instrumental)
+ 8 bars Verse 2 (Vocals)
+16 bars Chorus 2 (Vocals)
+ 4 bars Interlude 2 (Instrumental)
+ 7 bars Interlude 3 (Instrumental, Adlibs)
+16 bars Chorus 3 (Vocals)
+16 bars Chorus 4 (Adlibs) Fade-Out
+
+
+References
+----------
+
+* Valerie Dore - "The Night"
+
+    https://www.youtube.com/watch?v=80ssUKt76-c
+
+* Laura Brannigan - "Self Control"
+
+    https://www.youtube.com/watch?v=1nw-V5eEeAk
+
+* Gazebo "Lunatic"
+
+    https://www.youtube.com/watch?v=QmFDjc9vs-M
