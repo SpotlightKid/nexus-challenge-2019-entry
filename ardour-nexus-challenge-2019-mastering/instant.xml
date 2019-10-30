@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instant>
+  <LastUsedSnapshot name="nexus-challenge-2019-mastering"/>
+  <Main x="0" y="0" w="2550" h="1385" current-tab="editor"/>
+  <Editor id="37" edit-horizontal-pane-pos="0.79713112115859985" notebook-shrunk="0" edit-vertical-pane-pos="0.9105914831161499" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="8568" snap-to="SnapToBeatDiv16" snap-mode="SnapOff" internal-snap-to="SnapToBeatDiv8" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv16" pre-internal-snap-mode="SnapOff" edit-point="EditAtPlayhead" visible-track-count="-1" playhead="0" left-frame="0" y-origin="0" show-measures="1" maximised="0" follow-playhead="0" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="1" editor-list-page="0" show-marker-lines="0" nudge-clock-value="240000">
+    <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
+    <Buttons>
+      <Press/>
+      <Release/>
+    </Buttons>
+    <Selection/>
+    <RegionList sort-type="ByEndInFile" sort-ascending="1" show-all="1" show-automatic-regions="1"/>
+    <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IHNjcmlwdHNbMV0gPSB7fSBzY3JpcHRzWzFdWyJuIl0gPSAiRGVsZXRlIHhydW4gbWFya2VycyIgIHNjcmlwdHNbMV1bImEiXSA9IHt9IHNjcmlwdHNbMV1bImEiXVsieC1zY3JpcHQtb3JpZ2luIl0gPSAiL3Vzci9zaGFyZS9hcmRvdXI1L3NjcmlwdHMvZGVsZXRlX3hydW5fbWFya2Vycy5sdWEiICAgc2NyaXB0c1sxXVsiYyJdID0gIlwyN0x1YVNcMFwyNZNcMTNcClwyNlwKXDRcOFw0XDhcOHhWXDBcMFwwXDBcMFwwXDBcMFwwXDBcMCh3QFwxXDBcMTFcMFwwXDAoXDBcMFwwXDFcMFwyXDNcMFwwXDBsXDBcMFwwZlwwXDBcMSZcMIBcMFwwXDBcMFwwXDFcMFwwXDBcMFwwXDFcMFwwXDBcMFwxMVwwXDBcMChcMFwwXDBcNFwwXDEzTVwwXDBcMFwxNFwxQFwxUkHAXDCSgcBcMMzBQFwwQVwyXDFcMORBgFwxzEFBXDBBglwxXDCBwlwxXDDBwlwxXDBcMVwzXDJcMORBXDBcM8xBQlwwUoLCXDBOgoFcNIGCXDJcMORBXDBcMszBQlwwQFwygFwygVwyXDNcMORBXDBcMszBQlwwQVwyXDNcMI9CQ1wy5EFcMFwyzMFCXDBZXDJcMFwzj4JDXDLkQVwwXDLMwUJcMFlcMlwwXDOZXDJcMFwyj4JDXDXkQVwwXDLMwUNcMORBXDBcMcxcMURcMORBXDBcMcxBQVwwQUJcNFwwgUJcNFwwwUJcNFwwXDFcM1wyXDDkQVwwXDPMgURcMORBXDBcMcxBQVwwRsJEXDBHXDLFXDRHQsVcNIBcMoBcMWRcMlwwXDHkQVwwXDDMwUBcMEGCXDVcMORBgFwxzEFCXDBPwsFcMI/CQVwx5EFcMFwyzMFFXDBPgsFcMI+CQVwx5EFcMFwyzIFEXDDkQVwwXDHMQUJcME+CwVwwj8JBXDHkQVwwXDLMwUVcME/CwVwwj4JBXDHkQVwwXDLMgURcMORBXDBcMSZcMIBcMFwyNFwwXDBcMFwzXDBcMFwwXDBcMFwwXDEyQFwxOVwzXDBcMFwwXDBcMFwwXDBcMTlcNlwwXDBcMFwwXDBcMFwwXDRcMTVzZXRfbGluZV93aWR0aFwzXDBcMFwwXDBcMFww4D9cNFwxNnNldF9zb3VyY2VfcmdiYVwzmpmZmZmZ6T9cM5qZmZmZmck/XDNcMFwwXDBcMFwwXDDwP1w0XDhtb3ZlX3RvXDE5XDJcMFwwXDBcMFwwXDBcMFw0XDEycmVsX2xpbmVfdG9cMTlcMFwwXDBcMFwwXDBcMFwwXDOamZmZmZnZP1wwMDMzMzMzMzPjP1w0XDExY2xvc2VfcGF0aFw0XDE0ZmlsbF9wcmVzZXJ2ZVwzXDBcMFwwXDBcMFwwXDBcMFw0XDdzdHJva2VcNFw3QVJET1VSXDRcN0x1YUFQSVw0XDE0Y29sb3JfdG9fcmdiYVwxOVwxXDBcMFwwXDBcMFwwXDBcNFw4bGluZV90b1wxXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwIiBzY3JpcHRzWzFdWyJzIl0gPSAiYXJkb3VyIHsgW1widHlwZVwiXSA9IFwiRWRpdG9yQWN0aW9uXCIsIG5hbWUgPSBcIkRlbGV0ZSB4cnVuIG1hcmtlcnNcIiwgYXV0aG9yID0gXCJBcmRvdXIgVGVhbVwiLCBkZXNjcmlwdGlvbiA9IFtbRGVsZXRlIGFsbCB4cnVuIG1hcmtlcnMgaW4gdGhlIGN1cnJlbnQgc2Vzc2lvbl1dIH1cClwKZnVuY3Rpb24gZmFjdG9yeSAoKSByZXR1cm4gZnVuY3Rpb24gKClcClw5Zm9yIGwgaW4gU2Vzc2lvbjpsb2NhdGlvbnMoKTpsaXN0KCk6aXRlcigpIGRvXApcOVw5aWYgbDppc19tYXJrKCkgYW5kIHN0cmluZy5maW5kIChsOm5hbWUoKSwgXCJeeHJ1biVkKiRcIikgdGhlblwKXDlcOVw5U2Vzc2lvbjpsb2NhdGlvbnMoKTpyZW1vdmUgKGwpO1wKXDlcOWVuZFwKXDllbmRcCmVuZCBlbmRcClwKZnVuY3Rpb24gaWNvbiAocGFyYW1zKSByZXR1cm4gZnVuY3Rpb24gKGN0eCwgd2lkdGgsIGhlaWdodCwgZmcpXApcOWxvY2FsIG1oID0gaGVpZ2h0IC0gMy41O1wKXDlsb2NhbCBtMyA9IHdpZHRoIC8gMztcClw5bG9jYWwgbTYgPSB3aWR0aCAvIDY7XApcClw5Y3R4OnNldF9saW5lX3dpZHRoICguNSlcClwKXDljdHg6c2V0X3NvdXJjZV9yZ2JhICguOCwgLjIsIC4yLCAxLjApXApcOWN0eDptb3ZlX3RvICh3aWR0aCAvIDIgLSBtNiwgMilcClw5Y3R4OnJlbF9saW5lX3RvIChtMywgMClcClw5Y3R4OnJlbF9saW5lX3RvICgwLCBtaCAqIDAuNClcClw5Y3R4OnJlbF9saW5lX3RvICgtbTYsIG1oICogMC42KVwKXDljdHg6cmVsX2xpbmVfdG8gKC1tNiwgLW1oICogMC42KVwKXDljdHg6Y2xvc2VfcGF0aCAoKVwKXDljdHg6ZmlsbF9wcmVzZXJ2ZSAoKVwKXDljdHg6c2V0X3NvdXJjZV9yZ2JhICguMCwgLjAsIC4wLCAxLjApXApcOWN0eDpzdHJva2UgKClcClwKXDljdHg6c2V0X3NvdXJjZV9yZ2JhIChBUkRPVVIuTHVhQVBJLmNvbG9yX3RvX3JnYmEgKGZnKSlcClw5Y3R4OnNldF9saW5lX3dpZHRoICgxKVwKXApcOWN0eDptb3ZlX3RvICh3aWR0aCAqIC4yLCBoZWlnaHQgKiAuMilcClw5Y3R4OmxpbmVfdG8gKHdpZHRoICogLjgsIGhlaWdodCAqIC44KVwKXDljdHg6c3Ryb2tlICgpXApcClw5Y3R4Om1vdmVfdG8gKHdpZHRoICogLjgsIGhlaWdodCAqIC4yKVwKXDljdHg6bGluZV90byAod2lkdGggKiAuMiwgaGVpZ2h0ICogLjgpXApcOWN0eDpzdHJva2UgKClcClwKZW5kIGVuZFwKIiAgc2NyaXB0c1sxXVsiZiJdID0gIlwyN0x1YVNcMFwyNZNcMTNcClwyNlwKXDRcOFw0XDhcOHhWXDBcMFwwXDBcMFwwXDBcMFwwXDBcMCh3QFwxXDBcM1wwXDBcMFw5XDBcMFwwXDBcMFwyXDNcMFwwXDAsXDBcMFwwJlwwXDBcMSZcMIBcMFwwXDBcMFwwXDFcMFwwXDBcMFwwXDFcMFwwXDBcMFwzXDBcMFwwXDlcMFwwXDBcMFwwXDdcMjlcMFwwXDBcNlwwQFwwXDEyQEBcMCSAXDBcMVwxMoBAXDAkgFwwXDFcMTLAQFwwJFwwXDFcMVwzMEBcNIBcMTJcMcFcMSSBXDBcMVwiXDFcMFwwXDMwQFwzgFw2QUFcMFw3gUFcMkzBwVwxZIFcMFwxgVwxXDJcMCSBgFwxXCJcMVwwXDBcMzBAXDGAXDZcMUBcMFwxMkFAXDIkgVwwXDFcMTJBQlwygFwxgFwxJEGAXDEpQFwwXDCqwPpcMTI3JlwwgFwwXApcMFwwXDBcNFw4U2Vzc2lvblw0XApsb2NhdGlvbnNcNFw1bGlzdFw0XDVpdGVyXDRcOGlzX21hcmtcNFw3c3RyaW5nXDRcNWZpbmRcNFw1bmFtZVw0XApeeHJ1biVkKiRcNFw3cmVtb3ZlXDFcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDAiICA=</ActionScript>
+    <ActionHooks/>
+    <EditorLocations clock-mode="BBT"/>
+  </Editor>
+  <Mixer mixer-rhs-pane1-pos="0.60000002384185791" mixer-rhs_pane2-pos="0.69999998807907104" mixer-list-hpane-pos="0.13686299324035645" mixer-inner-pane-pos="0.80000001192092896" narrow-strips="0" show-mixer="0" show-mixer-list="1" maximised="0" monitor-section-visible="0">
+    <Window name="Mixer" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
+    <PluginOrder>
+      <PluginInfo sort="0" unique-id="http://nickbailey.co.nr/triceratops" expanded="0"/>
+      <PluginInfo sort="1" unique-id="3701" expanded="0"/>
+      <PluginInfo sort="2" unique-id="http://calf.sourceforge.net/plugins/VintageDelay" expanded="0"/>
+      <PluginInfo sort="3" unique-id="http://jpcima.sdf1.org/lv2/stone-phaser-stereo" expanded="0"/>
+    </PluginOrder>
+  </Mixer>
+  <Preferences>
+    <Window name="Globale Einstellungen" visible="0" x-off="310" y-off="418" x-size="884" y-size="700" tabbed="0"/>
+  </Preferences>
+  <Meterbridge show-meterbridge="0">
+    <geometry x-size="600" y-size="400" x-pos="1" y-pos="1"/>
+  </Meterbridge>
+</instant>

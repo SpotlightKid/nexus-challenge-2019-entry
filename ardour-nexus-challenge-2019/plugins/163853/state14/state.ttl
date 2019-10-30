@@ -1,0 +1,33 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-vocoder> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1">
+  <programs>
+    <program programname="B Voice Robot Harmonic" volume="0.36000001430511474609"
+             harmonics="0.61600005626678466797" noisevolume="0.24800001084804534912"
+             pulsevolume="0.20000000298023223877" sawvolume="0.64400005340576171875"
+             suboscvolume="0.44000002741813659668" osctranspose="0.4120000302791595459"
+             polymode="0" portamento="0" tune="0.5" inputmode="1" chorus="0"
+             enveloperelease="0.30800002813339233398" oscsync="0" pulsetune="0.49600002169609069824"
+             sawtune="0" pulsefinetune="0.43999999761581420898" sawfinetune="0.54000002145767211914"
+             esserintensity="0.23600001633167266846" vocoderband00="0.5" vocoderband01="0.5"
+             vocoderband02="0.37600001692771911621" vocoderband03="0.5" vocoderband04="0.63600003719329833984"
+             vocoderband05="0.5960000157356262207" vocoderband06="0.46800002455711364746"
+             vocoderband07="0.58000004291534423828" vocoderband08="0.56400001049041748047"
+             vocoderband09="0.57600003480911254883" vocoderband10="0.52000004053115844727"/>
+  </programs>
+</tal>
+"""
+	] .
+
