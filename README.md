@@ -6,3 +6,9 @@ Project files for my submission to the
 https://archive.org/details/spotlightkidanotherday
 
 https://soundcloud.com/spotlightkid/another-day
+
+
+**Lead Vocals:** [Julia Cramer](https://juliacramermusik.wordpress.com/)  
+**Background Vocals:** Julia Cramer, Christopher Arndt  
+**Synthesizers & Production:** Christopher Arndt  
+**Music & Lyrics:** Christopher Arndt  
